@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Liam T
 - 👀 I’m interested in Coding and Conlangs
-- 🌱 I’m currently learning C++, JS, French, and stuff I should know...
--  I’m looking to collaborate on [Ʌkʌɳo]([url](https://the-akano-language.webflow.io/))
+- 🌱 I’m currently learning C++, JS, German and stuff
+-  I’m looking to collaborate on Nothing
 - 📫 How to reach me laliamtran@gmail.com
 
 <!---
